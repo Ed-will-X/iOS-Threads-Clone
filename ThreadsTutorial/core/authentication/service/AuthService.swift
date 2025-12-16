@@ -1,9 +1,4 @@
-//
-//  AuthService.swift
-//  ThreadsTutorial
-//
-//  Created by Edmund Williams on 15/12/2025.
-//
+
 
 import Foundation
 import FirebaseAuth
