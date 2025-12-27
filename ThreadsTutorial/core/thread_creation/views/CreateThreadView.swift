@@ -12,8 +12,6 @@ struct CreateThreadView: View {
     @Environment(\.dismiss) var dismiss
     
     
-
-    
     var body: some View {
         NavigationStack {
             VStack {
