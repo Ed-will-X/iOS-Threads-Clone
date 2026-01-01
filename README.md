@@ -4,11 +4,11 @@ This Threads Clone is a minimalist social media platform modeled after Threads. 
 
 
 
-![1.jpg](/Users/ligma/Desktop/Projects/Courses/ThreadsTutorial/images/1.jpg)
+![1.jpg](/images/1.jpg)
 
 
 
-![2.jpg](/Users/ligma/Desktop/Projects/Courses/ThreadsTutorial/images/2.jpg)
+![2.jpg](/images/2.jpg)
 
 
 
